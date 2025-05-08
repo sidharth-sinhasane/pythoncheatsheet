@@ -25,7 +25,7 @@ print(ord("u"))
 strings=["ab","cd","mn"]
 print("________________________")
 print(strings)
-print("".join(strings))   #ad cd mn
+print("".join(strings))   #adcdmn
 
 # itorate 
 
